@@ -31,9 +31,9 @@ To deploy the application to Google Cloud Run, follow these steps:
     ```bash
     docker push mostafa117/etl
     ```
-# TO run on cloud run  
-![working _couldrun](https://github.com/Mustafa-Mohammed-58541/cloud_run_flaskapp/assets/48077793/54110068-4a8f-4e0a-9238-cd26c987b2a9)
+## Running on Cloud Run
 
+![Screenshot of the application running on Google Cloud Run](https://github.com/Mustafa-Mohammed-58541/cloud_run_flaskapp/assets/48077793/54110068-4a8f-4e0a-9238-cd26c987b2a9)
 
 ## Resources
 
